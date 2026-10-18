@@ -1,5 +1,7 @@
 # 새싹 해파리 · Leaf Jellyfish 🌱🫧
 
+[한국어](README.md) · [English](README.en.md) · [日本語](README.ja.md)
+
 파스텔 핑크 젤리 몸에 연두색 잎사귀를 쏙 달았어요.
 통통 떠다니고, 눈을 깜빡이고, 촉수로 인사하는 작은 데스크톱 친구예요.
 
