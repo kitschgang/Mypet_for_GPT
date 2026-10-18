@@ -15,7 +15,7 @@
 
 ## 내 펫으로 데려오기
 
-1. **[새싹 해파리 다운로드](https://github.com/kitschgang/Mypet_for_GPT/raw/refs/heads/main/leaf-jellyfish.zip)**를 눌러 내려받고 압축을 풀어 주세요.
+1. [새싹 해파리 다운로드](https://github.com/kitschgang/Mypet_for_GPT/raw/refs/heads/main/leaf-jellyfish.zip)를 눌러 내려받고 압축을 풀어 주세요.
 2. 압축을 푼 **`leaf-jellyfish` 폴더 전체**를 아래 위치에 넣어 주세요.
 
    | 운영체제 | 넣을 위치 |
